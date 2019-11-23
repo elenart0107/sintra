@@ -1,0 +1,10 @@
+C:\Users\ED\source\repos\PropertiesLes7\bin\Debug\netcoreapp2.1\PropertiesLes7.deps.json
+C:\Users\ED\source\repos\PropertiesLes7\bin\Debug\netcoreapp2.1\PropertiesLes7.runtimeconfig.json
+C:\Users\ED\source\repos\PropertiesLes7\bin\Debug\netcoreapp2.1\PropertiesLes7.runtimeconfig.dev.json
+C:\Users\ED\source\repos\PropertiesLes7\bin\Debug\netcoreapp2.1\PropertiesLes7.dll
+C:\Users\ED\source\repos\PropertiesLes7\bin\Debug\netcoreapp2.1\PropertiesLes7.pdb
+C:\Users\ED\source\repos\PropertiesLes7\obj\Debug\netcoreapp2.1\PropertiesLes7.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\PropertiesLes7\obj\Debug\netcoreapp2.1\PropertiesLes7.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\PropertiesLes7\obj\Debug\netcoreapp2.1\PropertiesLes7.AssemblyInfo.cs
+C:\Users\ED\source\repos\PropertiesLes7\obj\Debug\netcoreapp2.1\PropertiesLes7.dll
+C:\Users\ED\source\repos\PropertiesLes7\obj\Debug\netcoreapp2.1\PropertiesLes7.pdb

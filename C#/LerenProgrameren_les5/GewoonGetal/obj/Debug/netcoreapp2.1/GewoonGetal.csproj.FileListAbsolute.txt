@@ -1,0 +1,10 @@
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\GewoonGetal.deps.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\GewoonGetal.runtimeconfig.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\GewoonGetal.runtimeconfig.dev.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\GewoonGetal.dll
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\GewoonGetal.pdb
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\GewoonGetal.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\GewoonGetal.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\GewoonGetal.AssemblyInfo.cs
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\GewoonGetal.dll
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\GewoonGetal.pdb

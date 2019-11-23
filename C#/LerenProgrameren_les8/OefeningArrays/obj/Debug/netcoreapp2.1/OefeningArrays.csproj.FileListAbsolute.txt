@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\OefeningArrays\bin\Debug\netcoreapp2.1\OefeningArrays.deps.json
+C:\Users\ED\source\repos\OefeningArrays\bin\Debug\netcoreapp2.1\OefeningArrays.runtimeconfig.json
+C:\Users\ED\source\repos\OefeningArrays\bin\Debug\netcoreapp2.1\OefeningArrays.runtimeconfig.dev.json
+C:\Users\ED\source\repos\OefeningArrays\bin\Debug\netcoreapp2.1\OefeningArrays.dll
+C:\Users\ED\source\repos\OefeningArrays\bin\Debug\netcoreapp2.1\OefeningArrays.pdb
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.AssemblyInfo.cs
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.dll
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.pdb
+C:\Users\ED\source\repos\OefeningArrays\obj\Debug\netcoreapp2.1\OefeningArrays.csprojAssemblyReference.cache

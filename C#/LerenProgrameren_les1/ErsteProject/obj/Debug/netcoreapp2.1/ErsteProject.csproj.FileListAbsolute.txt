@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\ErsteProject\bin\Debug\netcoreapp2.1\ErsteProject.deps.json
+C:\Users\ED\source\repos\ErsteProject\bin\Debug\netcoreapp2.1\ErsteProject.runtimeconfig.json
+C:\Users\ED\source\repos\ErsteProject\bin\Debug\netcoreapp2.1\ErsteProject.runtimeconfig.dev.json
+C:\Users\ED\source\repos\ErsteProject\bin\Debug\netcoreapp2.1\ErsteProject.dll
+C:\Users\ED\source\repos\ErsteProject\bin\Debug\netcoreapp2.1\ErsteProject.pdb
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.AssemblyInfo.cs
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.dll
+C:\Users\ED\source\repos\ErsteProject\obj\Debug\netcoreapp2.1\ErsteProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\Priemgetal.deps.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\Priemgetal.runtimeconfig.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\Priemgetal.runtimeconfig.dev.json
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\Priemgetal.dll
+C:\Users\ED\source\repos\GewoonGetal\bin\Debug\netcoreapp2.1\Priemgetal.pdb
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.AssemblyInfo.cs
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.dll
+C:\Users\ED\source\repos\GewoonGetal\obj\Debug\netcoreapp2.1\Priemgetal.pdb

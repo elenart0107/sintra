@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\les7\bin\Debug\netcoreapp2.1\les7.deps.json
+C:\Users\ED\source\repos\les7\bin\Debug\netcoreapp2.1\les7.runtimeconfig.json
+C:\Users\ED\source\repos\les7\bin\Debug\netcoreapp2.1\les7.runtimeconfig.dev.json
+C:\Users\ED\source\repos\les7\bin\Debug\netcoreapp2.1\les7.dll
+C:\Users\ED\source\repos\les7\bin\Debug\netcoreapp2.1\les7.pdb
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.AssemblyInfo.cs
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.dll
+C:\Users\ED\source\repos\les7\obj\Debug\netcoreapp2.1\les7.pdb

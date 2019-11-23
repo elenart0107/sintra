@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\LES8Numers\bin\Debug\netcoreapp2.1\LES8ArraysCreate.deps.json
+C:\Users\ED\source\repos\LES8Numers\bin\Debug\netcoreapp2.1\LES8ArraysCreate.runtimeconfig.json
+C:\Users\ED\source\repos\LES8Numers\bin\Debug\netcoreapp2.1\LES8ArraysCreate.runtimeconfig.dev.json
+C:\Users\ED\source\repos\LES8Numers\bin\Debug\netcoreapp2.1\LES8ArraysCreate.dll
+C:\Users\ED\source\repos\LES8Numers\bin\Debug\netcoreapp2.1\LES8ArraysCreate.pdb
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.AssemblyInfo.cs
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.dll
+C:\Users\ED\source\repos\LES8Numers\obj\Debug\netcoreapp2.1\LES8ArraysCreate.pdb

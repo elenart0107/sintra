@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\hwString\bin\Debug\netcoreapp2.1\hwString.deps.json
+C:\Users\ED\source\repos\hwString\bin\Debug\netcoreapp2.1\hwString.runtimeconfig.json
+C:\Users\ED\source\repos\hwString\bin\Debug\netcoreapp2.1\hwString.runtimeconfig.dev.json
+C:\Users\ED\source\repos\hwString\bin\Debug\netcoreapp2.1\hwString.dll
+C:\Users\ED\source\repos\hwString\bin\Debug\netcoreapp2.1\hwString.pdb
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.AssemblyInfo.cs
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.dll
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.pdb
+C:\Users\ED\source\repos\hwString\obj\Debug\netcoreapp2.1\hwString.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\ED\source\repos\Ratten\bin\Debug\netcoreapp2.1\Ratten.deps.json
+C:\Users\ED\source\repos\Ratten\bin\Debug\netcoreapp2.1\Ratten.runtimeconfig.json
+C:\Users\ED\source\repos\Ratten\bin\Debug\netcoreapp2.1\Ratten.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Ratten\bin\Debug\netcoreapp2.1\Ratten.dll
+C:\Users\ED\source\repos\Ratten\bin\Debug\netcoreapp2.1\Ratten.pdb
+C:\Users\ED\source\repos\Ratten\obj\Debug\netcoreapp2.1\Ratten.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Ratten\obj\Debug\netcoreapp2.1\Ratten.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Ratten\obj\Debug\netcoreapp2.1\Ratten.AssemblyInfo.cs
+C:\Users\ED\source\repos\Ratten\obj\Debug\netcoreapp2.1\Ratten.dll
+C:\Users\ED\source\repos\Ratten\obj\Debug\netcoreapp2.1\Ratten.pdb

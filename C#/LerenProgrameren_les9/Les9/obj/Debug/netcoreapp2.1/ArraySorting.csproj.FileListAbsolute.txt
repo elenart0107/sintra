@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\Les9\bin\Debug\netcoreapp2.1\ArraySorting.deps.json
+C:\Users\ED\source\repos\Les9\bin\Debug\netcoreapp2.1\ArraySorting.runtimeconfig.json
+C:\Users\ED\source\repos\Les9\bin\Debug\netcoreapp2.1\ArraySorting.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Les9\bin\Debug\netcoreapp2.1\ArraySorting.dll
+C:\Users\ED\source\repos\Les9\bin\Debug\netcoreapp2.1\ArraySorting.pdb
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.AssemblyInfo.cs
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.dll
+C:\Users\ED\source\repos\Les9\obj\Debug\netcoreapp2.1\ArraySorting.pdb

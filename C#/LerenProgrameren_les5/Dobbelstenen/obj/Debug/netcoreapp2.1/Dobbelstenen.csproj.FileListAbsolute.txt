@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\Dobbelstenen\bin\Debug\netcoreapp2.1\Dobbelstenen.deps.json
+C:\Users\ED\source\repos\Dobbelstenen\bin\Debug\netcoreapp2.1\Dobbelstenen.runtimeconfig.json
+C:\Users\ED\source\repos\Dobbelstenen\bin\Debug\netcoreapp2.1\Dobbelstenen.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Dobbelstenen\bin\Debug\netcoreapp2.1\Dobbelstenen.dll
+C:\Users\ED\source\repos\Dobbelstenen\bin\Debug\netcoreapp2.1\Dobbelstenen.pdb
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.AssemblyInfo.cs
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.dll
+C:\Users\ED\source\repos\Dobbelstenen\obj\Debug\netcoreapp2.1\Dobbelstenen.pdb

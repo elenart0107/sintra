@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\EvenOneven\bin\Debug\netcoreapp2.1\EvenOneven.deps.json
+C:\Users\ED\source\repos\EvenOneven\bin\Debug\netcoreapp2.1\EvenOneven.runtimeconfig.json
+C:\Users\ED\source\repos\EvenOneven\bin\Debug\netcoreapp2.1\EvenOneven.runtimeconfig.dev.json
+C:\Users\ED\source\repos\EvenOneven\bin\Debug\netcoreapp2.1\EvenOneven.dll
+C:\Users\ED\source\repos\EvenOneven\bin\Debug\netcoreapp2.1\EvenOneven.pdb
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.AssemblyInfo.cs
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.dll
+C:\Users\ED\source\repos\EvenOneven\obj\Debug\netcoreapp2.1\EvenOneven.pdb

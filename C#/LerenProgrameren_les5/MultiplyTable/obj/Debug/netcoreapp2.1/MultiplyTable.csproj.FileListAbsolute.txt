@@ -1,0 +1,10 @@
+C:\Users\ED\source\repos\MultiplyTable\bin\Debug\netcoreapp2.1\MultiplyTable.deps.json
+C:\Users\ED\source\repos\MultiplyTable\bin\Debug\netcoreapp2.1\MultiplyTable.runtimeconfig.json
+C:\Users\ED\source\repos\MultiplyTable\bin\Debug\netcoreapp2.1\MultiplyTable.runtimeconfig.dev.json
+C:\Users\ED\source\repos\MultiplyTable\bin\Debug\netcoreapp2.1\MultiplyTable.dll
+C:\Users\ED\source\repos\MultiplyTable\bin\Debug\netcoreapp2.1\MultiplyTable.pdb
+C:\Users\ED\source\repos\MultiplyTable\obj\Debug\netcoreapp2.1\MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\MultiplyTable\obj\Debug\netcoreapp2.1\MultiplyTable.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\MultiplyTable\obj\Debug\netcoreapp2.1\MultiplyTable.AssemblyInfo.cs
+C:\Users\ED\source\repos\MultiplyTable\obj\Debug\netcoreapp2.1\MultiplyTable.dll
+C:\Users\ED\source\repos\MultiplyTable\obj\Debug\netcoreapp2.1\MultiplyTable.pdb

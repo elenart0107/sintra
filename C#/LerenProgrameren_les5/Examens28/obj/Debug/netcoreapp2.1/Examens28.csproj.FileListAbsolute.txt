@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\Examens28\bin\Debug\netcoreapp2.1\Examens28.deps.json
+C:\Users\ED\source\repos\Examens28\bin\Debug\netcoreapp2.1\Examens28.runtimeconfig.json
+C:\Users\ED\source\repos\Examens28\bin\Debug\netcoreapp2.1\Examens28.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Examens28\bin\Debug\netcoreapp2.1\Examens28.dll
+C:\Users\ED\source\repos\Examens28\bin\Debug\netcoreapp2.1\Examens28.pdb
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.AssemblyInfo.cs
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.dll
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.pdb
+C:\Users\ED\source\repos\Examens28\obj\Debug\netcoreapp2.1\Examens28.csprojAssemblyReference.cache

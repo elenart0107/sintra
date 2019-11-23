@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\RandomNumbersDiceGame\bin\Debug\netcoreapp2.1\RandomNumbersDiceGame.deps.json
+C:\Users\ED\source\repos\RandomNumbersDiceGame\bin\Debug\netcoreapp2.1\RandomNumbersDiceGame.runtimeconfig.json
+C:\Users\ED\source\repos\RandomNumbersDiceGame\bin\Debug\netcoreapp2.1\RandomNumbersDiceGame.runtimeconfig.dev.json
+C:\Users\ED\source\repos\RandomNumbersDiceGame\bin\Debug\netcoreapp2.1\RandomNumbersDiceGame.dll
+C:\Users\ED\source\repos\RandomNumbersDiceGame\bin\Debug\netcoreapp2.1\RandomNumbersDiceGame.pdb
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.AssemblyInfo.cs
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.dll
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.pdb
+C:\Users\ED\source\repos\RandomNumbersDiceGame\obj\Debug\netcoreapp2.1\RandomNumbersDiceGame.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\FoutAfhangeling\bin\Debug\netcoreapp2.1\FoutAfhangeling.deps.json
+C:\Users\ED\source\repos\FoutAfhangeling\bin\Debug\netcoreapp2.1\FoutAfhangeling.runtimeconfig.json
+C:\Users\ED\source\repos\FoutAfhangeling\bin\Debug\netcoreapp2.1\FoutAfhangeling.runtimeconfig.dev.json
+C:\Users\ED\source\repos\FoutAfhangeling\bin\Debug\netcoreapp2.1\FoutAfhangeling.dll
+C:\Users\ED\source\repos\FoutAfhangeling\bin\Debug\netcoreapp2.1\FoutAfhangeling.pdb
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.AssemblyInfo.cs
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.dll
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.pdb
+C:\Users\ED\source\repos\FoutAfhangeling\obj\Debug\netcoreapp2.1\FoutAfhangeling.csprojAssemblyReference.cache

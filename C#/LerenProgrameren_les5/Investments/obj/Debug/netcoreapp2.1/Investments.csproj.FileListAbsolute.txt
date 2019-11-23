@@ -1,0 +1,10 @@
+C:\Users\ED\source\repos\Investments\obj\Debug\netcoreapp2.1\Investments.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Investments\obj\Debug\netcoreapp2.1\Investments.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Investments\obj\Debug\netcoreapp2.1\Investments.AssemblyInfo.cs
+C:\Users\ED\source\repos\Investments\bin\Debug\netcoreapp2.1\Investments.deps.json
+C:\Users\ED\source\repos\Investments\bin\Debug\netcoreapp2.1\Investments.runtimeconfig.json
+C:\Users\ED\source\repos\Investments\bin\Debug\netcoreapp2.1\Investments.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Investments\bin\Debug\netcoreapp2.1\Investments.dll
+C:\Users\ED\source\repos\Investments\bin\Debug\netcoreapp2.1\Investments.pdb
+C:\Users\ED\source\repos\Investments\obj\Debug\netcoreapp2.1\Investments.dll
+C:\Users\ED\source\repos\Investments\obj\Debug\netcoreapp2.1\Investments.pdb

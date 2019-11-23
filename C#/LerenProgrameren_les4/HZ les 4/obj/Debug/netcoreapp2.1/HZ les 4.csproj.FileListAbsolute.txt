@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\HZ les 4\bin\Debug\netcoreapp2.1\HZ les 4.deps.json
+C:\Users\ED\source\repos\HZ les 4\bin\Debug\netcoreapp2.1\HZ les 4.runtimeconfig.json
+C:\Users\ED\source\repos\HZ les 4\bin\Debug\netcoreapp2.1\HZ les 4.runtimeconfig.dev.json
+C:\Users\ED\source\repos\HZ les 4\bin\Debug\netcoreapp2.1\HZ les 4.dll
+C:\Users\ED\source\repos\HZ les 4\bin\Debug\netcoreapp2.1\HZ les 4.pdb
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.csprojAssemblyReference.cache
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.AssemblyInfo.cs
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.dll
+C:\Users\ED\source\repos\HZ les 4\obj\Debug\netcoreapp2.1\HZ les 4.pdb

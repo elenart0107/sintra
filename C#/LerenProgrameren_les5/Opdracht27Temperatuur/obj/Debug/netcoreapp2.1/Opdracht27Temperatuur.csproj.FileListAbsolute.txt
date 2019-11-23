@@ -1,0 +1,11 @@
+C:\Users\ED\source\repos\Opdracht27Temperatuur\bin\Debug\netcoreapp2.1\Opdracht27Temperatuur.deps.json
+C:\Users\ED\source\repos\Opdracht27Temperatuur\bin\Debug\netcoreapp2.1\Opdracht27Temperatuur.runtimeconfig.json
+C:\Users\ED\source\repos\Opdracht27Temperatuur\bin\Debug\netcoreapp2.1\Opdracht27Temperatuur.runtimeconfig.dev.json
+C:\Users\ED\source\repos\Opdracht27Temperatuur\bin\Debug\netcoreapp2.1\Opdracht27Temperatuur.dll
+C:\Users\ED\source\repos\Opdracht27Temperatuur\bin\Debug\netcoreapp2.1\Opdracht27Temperatuur.pdb
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.csproj.CoreCompileInputs.cache
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.AssemblyInfoInputs.cache
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.AssemblyInfo.cs
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.dll
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.pdb
+C:\Users\ED\source\repos\Opdracht27Temperatuur\obj\Debug\netcoreapp2.1\Opdracht27Temperatuur.csprojAssemblyReference.cache
